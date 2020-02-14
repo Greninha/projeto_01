@@ -8,7 +8,7 @@
 		<?php 
 
 			echo "<p>Olá, bom dia.<br>Aula Programação Web</p>";
-			echo "<br><br><br><br><br><strong><p>Aluno:João Marcos Francelino Macêdo<br><br>Nº 20</p></strong>";
+			echo "<br><br><br><br><br><strong><p>Aluno: João Marcos Francelino Macêdo<br><br>Nº 20</p></strong>";
 
 		 ?>	
 	</body>
